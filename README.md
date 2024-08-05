@@ -1,2 +1,5 @@
 # belly-button-challenge
 Module 14 Challenge
+The module 14 challenge includes a dataset that catalogs the microbes that colonize in the human navel. "The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare."
+The challenge uses the D3 library to read in the samples.json file from a URL. Metadata is is sampled for a dropdown menu to show up on the website/dashboard, and both a bar chart and a bubble plot are created and interactive for the user to adjust by the Test Subject ID Number.
+I was able to utilize assistance from code provided by professor Booth as well as assistance from my tutor, Anna Poulakos to streamline my code for it to be more efficient.
